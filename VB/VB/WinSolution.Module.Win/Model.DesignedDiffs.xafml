@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems>
+    <Items>
+      <Item Id="Default" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@ff8b5e23-6e21-4965-8c72-c4ffeadbda87" ViewId="Note_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="13.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="13.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
